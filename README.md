@@ -125,7 +125,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Soumya Suman Kar**
 - 🐙 GitHub: [@SOUMYA0023](https://github.com/SOUMYA0023)
-- 📧 Email: soumya@example.com
+- 📧 Email: soumyasumankar23@gmail.com
 
 ## ⭐ Show Your Support
 
@@ -138,3 +138,4 @@ Give a ⭐️ if this project helped you or you found it interesting!
 **Made with ❤️ and Python**
 
 </div>
+
